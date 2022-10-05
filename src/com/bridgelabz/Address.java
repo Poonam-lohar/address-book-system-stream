@@ -30,5 +30,4 @@ public class Address {
     public String toString() {
         return "City : " + city + "\tState : " + state + "\tZip : " + zip;
     }
-
 }
